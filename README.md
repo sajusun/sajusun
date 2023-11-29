@@ -1,11 +1,14 @@
 ### Hi there 👋
-## <center>❤**Sakhawat Hossain**❤</center>
+ <h1 align='center'> ❤<b></b>Sakhawat Hossain</b>❤ </h1>
+
 #### Flutter App Developer
-![Flutter App Developer](https://avatars.githubusercontent.com/u/11309185?v=4)
+ <p align="center">
+ <img src="https://avatars.githubusercontent.com/u/11309185?v=4"/>
+</p>
 
 I am the Person who like Learning Programming. I have Computer Hardware Troubleshooting Experience, Good Knowledge of Web Design, Android App Development ( Flutter || Java )
 
-Skills: FLUTTER / JAVA / JS / HTML / CSS
+Skills: `FLUTTER` / `JAVA` / `JS` / `HTML` / `CSS`
 
 - 🔭 I’m currently working on Kodeeo App Project 
 - 🌱 I’m currently learning Flutter 

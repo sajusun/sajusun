@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## <center>❤**Sakhawat Hossain**❤</center>
 #### Flutter App Developer
-<center>![Flutter App Developer](https://avatars.githubusercontent.com/u/11309185?v=4)</center>
+![Flutter App Developer](https://avatars.githubusercontent.com/u/11309185?v=4)
 
 I am the Person who like Learning Programming. I have Computer Hardware Troubleshooting Experience, Good Knowledge of Web Design, Android App Development ( Flutter || Java )
 

@@ -4,9 +4,9 @@
  <img src="https://www.pngitem.com/pimgs/m/526-5265875_banner-andro-flat-android-application-development-banner-hd.png"/></p>
  
 #### Flutter App Developer
-I am the Person who like Learning Programming. I have Computer Hardware Troubleshooting Experience, Good Knowledge of Web Design, Android App Development ( Flutter || Java )
+I am the Person who likes Learn Programming. I have Computer Hardware Troubleshooting Experience, Good Knowledge of Web Design, Android App Development ( Flutter || Java )
 
-Skills: `FLUTTER` / `JAVA` / `JS` / `HTML` / `CSS`
+Skills:  **`FLUTTER`**/ **`JAVA`** / **`JS`** / **`HTML`** / **`CSS`**
 
 - 🔭 I’m currently working on Kodeeo App Project 
 - 🌱 I’m currently learning Flutter 

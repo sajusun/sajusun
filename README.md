@@ -145,7 +145,7 @@
 
 I am open to discussing high-scale backend engineering opportunities, system architecture consulting, and tech discussions:
 
-- 📧 **Email:** [sajuislam266@gmail.com](mailto:sajuislam266@gmail.com)
+- 📧 **Email:** [backend.sakhawat@gmail.com](mailto:backend.sakhawat@gmail.com)
 - 💬 **WhatsApp Direct:** [+880 1580-349431](https://wa.me/8801719470793)
 - 💼 **LinkedIn Profile:** [linkedin.com/in/sajusun](https://www.linkedin.com/in/sajusun)
 - 🌐 **GitHub:** [github.com/sajusun](https://github.com/sajusun)

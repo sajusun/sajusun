@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://sajusun.github.io/portfolio/sitemap.xml
